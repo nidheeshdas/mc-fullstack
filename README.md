@@ -1,8 +1,8 @@
 
 # Links
-https://strapi.io
-https://nextjs.org
-https://docs.strapi.io/developer-docs/latest/developer-resources/content-api/integrations/next-js.html#create-a-next-js-app
+1. https://strapi.io
+2. https://nextjs.org
+3. https://docs.strapi.io/developer-docs/latest/developer-resources/content-api/integrations/next-js.html#create-a-next-js-app
 
 
 # Instructions
